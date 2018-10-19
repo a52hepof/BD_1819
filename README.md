@@ -1,46 +1,7 @@
 <<<<<<< HEAD
-# POO_1819
+# Base de datos
 
-Resositorio prácticas Programación Orientada a Objetos 2018-2019
-
-Repositorio local en:
-
-**home** 
-/home/fernando/101/segundo/POOBJ
-
-**uco**
-
-
-***
-
-En el repositorio local, actualizar los cambios que estén en el remoto
+Resositorio prácticas Base de Datos UCO 2018-2019
 
 
 
-    git pull
-
-Después de modificar el fichero en local, hay que actualizar el repositorio remoto
-    
-* En local trabajamos en la rama **desarrollo**
-
-Es preciso hacer un merge a la rama master y desde allí realizar los siguientes comandos
-    
- 
-  
-    git merge master
-    
-    git checkout master
-    
-    git status
-    git add ./
-    git commit -m "Descripción commit realizado"
-    git push -u origin master
-
-Para seguir trabajando en la rama de desarrollo hay que cambiar a la misma
-
-    git checkout desarrollo
-=======
-# BD_1819
-
-Estamos modelando conceptualmente...
->>>>>>> b7cdad57625ac951d0418238fd58fb0bf4c3f0a6
