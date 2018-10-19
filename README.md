@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # POO_1819
 
 Resositorio prácticas Programación Orientada a Objetos 2018-2019
@@ -38,3 +39,8 @@ Es preciso hacer un merge a la rama master y desde allí realizar los siguientes
 Para seguir trabajando en la rama de desarrollo hay que cambiar a la misma
 
     git checkout desarrollo
+=======
+# BD_1819
+
+Estamos modelando conceptualmente...
+>>>>>>> b7cdad57625ac951d0418238fd58fb0bf4c3f0a6
