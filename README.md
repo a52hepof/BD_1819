@@ -2,6 +2,4 @@
 
 Resositorio prácticas Base de Datos UCO 2018-2019
 
-# Charli maricon y pillao.
-
 # SERGIO PASA EL TRABAJO!!!!
